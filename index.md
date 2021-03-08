@@ -1,3 +1,10 @@
-# Welcome to my blog
+# Welcome to my new blog created on 8 March 2021
 
-I'm glad you are here. I plan to talk about ...
+  Template Code
+...xxx...
+  
+  Example 1
+...yyy...
+
+  Conclusion
+Thanks
